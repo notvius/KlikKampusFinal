@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "921738830456",
+    "project_id": "klikkampus-5d707",
+    "storage_bucket": "klikkampus-5d707.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921738830456:android:abfbcb67adca471138038d",
+        "android_client_info": {
+          "package_name": "com.klikkampus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7QTW-TRsJpJJyZC2Z9Nk-A2tmLDLo6GU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
